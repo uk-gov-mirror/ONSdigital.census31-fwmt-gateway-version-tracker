@@ -5,6 +5,6 @@ services:
   outcome-service: 27.0.29
   fulfillment-event-service: 27.0.22
   tm-mock: 27.0.11
-  acceptance-tests: 4.0.28
+  acceptance-tests: 4.0.29-RC
 status: promoted
 infrastructure: 27.0.6
